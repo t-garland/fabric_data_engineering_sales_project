@@ -1,24 +1,24 @@
 [
   {
-    "source_url": "refs/heads/main/UnstructuredData/web_logs_mmi.json",
+    "source_url": "refs/heads/main/HighVolumeMetadata/web_logs_mmi.json",
     "sink_folder": "bronze_web_logs",
     "sink_file": "web_logs.json",
     "file_type": "json"
   },
   {
-    "source_url": "refs/heads/main/UnstructuredData/social_media_mmi.json",
+    "source_url": "refs/heads/main/HighVolumeMetadata/social_media_mmi.json",
     "sink_folder": "bronze_social_media",
     "sink_file": "social_media.json",
     "file_type": "json"
   },
   {
-    "source_url": "refs/heads/main/UnstructuredData/reviews_mmi.json",
+    "source_url": "refs/heads/main/HighVolumeMetadata/reviews_mmi.json",
     "sink_folder": "bronze_reviews",
     "sink_file": "reviews.json",
     "file_type": "json"
   },
   {
-    "source_url": "refs/heads/main/StructuredData/order_lines_mmi.csv",
+    "source_url": "refs/heads/main/HighVolumeMetadata/order_lines_mmi.csv",
     "sink_folder": "bronze_pos_order_lines",
     "sink_file": "order_lines.csv",
     "file_type": "csv"
