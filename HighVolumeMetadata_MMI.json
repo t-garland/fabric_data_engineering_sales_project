@@ -1,0 +1,22 @@
+[
+  {
+    "source_url": "refs/heads/main/MusicalMagic_UnstructuredData/web_logs_mmi.json",
+    "sink_folder": "bronze_web_logs",
+    "sink_file": "web_logs.json"
+  },
+  {
+    "source_url": "refs/heads/main/MusicalMagic_UnstructuredData/social_media_mmi.json",
+    "sink_folder": "bronze_social_media",
+    "sink_file": "social_media.json"
+  },
+  {
+    "source_url": "refs/heads/main/MusicalMagic_UnstructuredData/reviews_mmi.json",
+    "sink_folder": "bronze_reviews",
+    "sink_file": "reviews.json"
+  },
+  {
+    "source_url": "refs/heads/main/MusicalMagic_StructuredData/order_lines_mmi.csv",
+    "sink_folder": "bronze_pos_order_lines",
+    "sink_file": "order_lines.csv"
+  }
+]

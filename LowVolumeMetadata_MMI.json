@@ -1,0 +1,17 @@
+[
+  {
+    "source_url": "refs/heads/main/MusicalMagic_StructuredData/orders_header_mmi.csv",
+    "sink_folder": "bronze_pos_orders_header",
+    "sink_file": "orders_header.csv"
+  },
+  {
+    "source_url": "refs/heads/main/MusicalMagic_StructuredData/products_mmi.csv",
+    "sink_folder": "bronze_dim_products",
+    "sink_file": "dim_products.csv"
+  },
+  {
+    "source_url": "refs/heads/main/MusicalMagic_StructuredData/customers_mmi.csv",
+    "sink_folder": "bronze_dim_customers",
+    "sink_file": "dim_customers.csv"
+  }
+]
