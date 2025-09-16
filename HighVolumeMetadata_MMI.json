@@ -1,7 +1,6 @@
 [
   {
     "source_url": "refs/heads/main/UnstructuredData/web_logs_mmi.json",
-    refs/heads/main/StructuredData/customers_mmi.csv
     "sink_folder": "bronze_web_logs",
     "sink_file": "web_logs.json"
   },
