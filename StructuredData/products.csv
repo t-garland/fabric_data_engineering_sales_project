@@ -1,0 +1,51 @@
+ProductKey,ProductID,ProductName,Category,Stock,UnitPrice
+1,PROD200,Suit,Fashion,83,979.95
+2,PROD201,Ball,Sports,325,218.04
+3,PROD202,Jeans,Fashion,314,354.52
+4,PROD203,Computer,Electronics,486,608.34
+5,PROD204,DiningTable,Home Goods,236,900.27
+6,PROD205,Tshirt,Fashion,164,47.19
+7,PROD206,Chair,Home Goods,367,194.85
+8,PROD207,DesignerBag,Fashion,261,398.82
+9,PROD208,Sofa,Home Goods,297,643.2
+10,PROD209,Socks,Sports,142,25.57
+11,PROD210,Bed,Home Goods,351,810.63
+12,PROD211,Shoes,Fashion,478,49.04
+13,PROD212,GolfKit,Sports,140,835.29
+14,PROD213,Ring,Fashion,356,597.96
+15,PROD214,Watch,Electronics,471,186.96
+16,PROD215,MakeupKit,Fashion,186,517.38
+17,PROD216,SkiSuit,Sports,240,295.03
+18,PROD217,Necklace,Fashion,490,459.04
+19,PROD218,SwimSuit,Sports,120,73.25
+20,PROD219,Chair,Home Goods,194,342.35
+21,PROD220,HikingKit,Sports,272,448.13
+22,PROD221,Ipad,Electronics,294,675.37
+23,PROD222,NikeShoes,Sports,33,190.59
+24,PROD223,Bike,Sports,355,598.09
+25,PROD224,Kettle,Electronics,202,568.24
+26,PROD225,LaptopLenova,Electronics,199,808.88
+27,PROD226,Speaker,Electronics,345,216.05
+28,PROD227,Baseball,Sports,241,313.75
+29,PROD228,Window Coverings,Home Goods,21,513.36
+30,PROD229,GameJersey,Sports,80,307.9
+31,PROD230,Sunglasses,Fashion,319,587.25
+32,PROD231,Storage Bins,Home Goods,310,267.06
+33,PROD232,LightFixture,Home Goods,131,289.76
+34,PROD233,Carpet,Home Goods,208,950.54
+35,PROD234,Dinner,Electronics,406,931.09
+36,PROD235,Bedsheet,Home Goods,427,171.5
+37,PROD236,16carat Gold ring,Fashion,461,745.26
+38,PROD237,FitnessWatchBlack,Electronics,120,224.53
+39,PROD238,BookCase,Home Goods,443,778.13
+40,PROD239,Camera,Electronics,467,366.52
+41,PROD240,BabyStroller,Fashion,269,515.16
+42,PROD241,TreadMill,Electronics,182,786.72
+43,PROD242,GoKart,Sports,108,485.7
+44,PROD243,Monitor,Electronics,256,557.19
+45,PROD244,Trousers,Fashion,151,285.87
+46,PROD245,LawnMower,Home Goods,203,748.84
+47,PROD246,SkiBoots,Sports,244,703.13
+48,PROD247,Mattress,Home Goods,425,716.17
+49,PROD248,BallPit,Sports,382,122.29
+50,PROD249,CoffeeTable,Home Goods,120,418.67
