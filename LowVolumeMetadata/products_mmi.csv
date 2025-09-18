@@ -1,0 +1,60 @@
+ProductKey,ProductID,ProductName,Category,Stock,UnitPrice
+1,MMI001,Fender Player Stratocaster,Guitars,112,1299.0
+2,MMI002,Fender Player Telecaster,Guitars,280,1199.0
+3,MMI003,Gibson Les Paul Studio,Guitars,116,2799.0
+4,MMI004,PRS SE Custom 24,Guitars,81,1599.0
+5,MMI005,Yamaha Pacifica 112V,Guitars,198,499.0
+6,MMI006,Taylor GS Mini,Guitars,30,949.0
+7,MMI007,Martin D-15M,Guitars,112,2399.0
+8,MMI008,Epiphone Casino,Guitars,131,1199.0
+9,MMI009,Squier Classic Vibe 60s Strat,Guitars,224,799.0
+10,MMI010,Ibanez RG450DX,Guitars,97,749.0
+11,MMI011,Fender Player Jazz Bass,Basses,109,1399.0
+12,MMI012,Fender Player Precision Bass,Basses,161,1299.0
+13,MMI013,Music Man StingRay Special,Basses,140,2999.0
+14,MMI014,Ibanez SR300E,Basses,159,649.0
+15,MMI015,Squier Classic Vibe 70s Jazz Bass,Basses,267,799.0
+16,MMI016,Yamaha TRBX304,Basses,201,649.0
+17,MMI017,Yamaha P-125 Digital Piano,Keyboards,286,999.0
+18,MMI018,Korg B2SP Digital Piano,Keyboards,170,1199.0
+19,MMI019,Roland FP-30X,Keyboards,31,1399.0
+20,MMI020,Arturia KeyLab 61 MKII,Keyboards,262,1169.0
+21,MMI021,Novation Launchkey 49 MK3,Keyboards,245,399.0
+22,MMI022,Korg Minilogue XD,Keyboards,58,1199.0
+23,MMI023,Moog Subsequent 37,Keyboards,68,2999.0
+24,MMI024,Yamaha Stage Custom Birch 5pc,Drums,179,1499.0
+25,MMI025,Pearl Export 5pc,Drums,197,1399.0
+26,MMI026,Roland TD-17KVX V-Drums,Drums,280,2499.0
+27,MMI027,Alesis Nitro Mesh Kit,Drums,199,799.0
+28,MMI028,Ludwig Black Beauty Snare 14x6.5,Drums,184,1399.0
+29,MMI029,"Zildjian A Custom Crash 18""",Drums,60,399.0
+30,MMI030,Shure SM58 Microphone,Pro Audio,64,169.0
+31,MMI031,Shure SM7B Microphone,Pro Audio,253,499.0
+32,MMI032,Rode NT1 Kit,Pro Audio,140,429.0
+33,MMI033,Focusrite Scarlett 2i2 3rd Gen,Pro Audio,144,299.0
+34,MMI034,Universal Audio Apollo Twin X,Pro Audio,30,1499.0
+35,MMI035,Yamaha HS8 Studio Monitor (Single),Pro Audio,176,449.0
+36,MMI036,KRK Rokit 5 G4 (Single),Pro Audio,283,299.0
+37,MMI037,Sennheiser HD650 Headphones,Pro Audio,98,749.0
+38,MMI038,Yamaha YAS-280 Alto Saxophone,Orchestral,23,1799.0
+39,MMI039,Yamaha YFL-222 Flute,Orchestral,251,999.0
+40,MMI040,Jean Paul TR-430 Trumpet,Orchestral,274,599.0
+41,MMI041,Stentor Student II Violin 4/4,Orchestral,62,449.0
+42,MMI042,Cello 4/4 Student Outfit,Orchestral,101,1199.0
+43,MMI043,Ernie Ball Regular Slinky 10-46 (3-Pack),Accessories,273,39.0
+44,MMI044,D'Addario NYXL 9-42 (3-Pack),Accessories,44,59.0
+45,MMI045,Kyser Quick-Change Capo,Accessories,215,49.0
+46,MMI046,Boss TU-3 Chromatic Tuner,Accessories,90,169.0
+47,MMI047,Fender Deluxe Gig Bag,Accessories,59,119.0
+48,MMI048,Hercules GS414B Plus Guitar Stand,Accessories,11,199.0
+49,MMI049,Elixir Nanoweb Acoustic 12-53,Accessories,63,199.0
+50,MMI050,DW 5000 Bass Drum Pedal,Accessories,115,499.0
+51,MMI051,Vic Firth 5A Sticks (Pair),Accessories,269,22.0
+52,MMI052,Planet Waves Instrument Cable 10ft,Accessories,200,29.0
+53,MMI053,Yamaha Keyboard Stand,Accessories,227,249.0
+54,MMI054,Fender Player Stratocaster HSS,Guitars,48,1299.0
+55,MMI055,Ibanez RG550,Guitars,38,1599.0
+56,MMI056,Roland SPD-SX Pro,Drums,78,1699.0
+57,MMI057,Behringer X32 Compact,Pro Audio,66,2999.0
+58,MMI058,Nord Stage 3 88,Keyboards,18,2999.0
+59,MMI059,Boss RC-505MKII Loop Station,Pro Audio,52,999.0
